@@ -1,3 +1,7 @@
+![Solutto ERP](https://sistema.solutto.com.br/images/logo_login_solutto.gif)
+
+
+
 ## Acesse nosso portal de vagas
 
 [https://www.solutto.com.br/vagas](https://www.solutto.com.br/vagas.aspx?p=github)
